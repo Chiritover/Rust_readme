@@ -1,0 +1,5 @@
+,Domain name,Example Repositories,Total Repos,Total Stars,Average Stars,Max stars
+0,1,"['denoland/deno', 'sharkdp/bat', 'rust-lang/rustlings', 'meilisearch/meilisearch', 'rust-unofficial/awesome-rust']",583,1807891,3101.0137221269297,86059
+1,2,"['rust-lang/rust', 'rustdesk/rustdesk', 'sharkdp/fd', 'tokio-rs/tokio', 'actix/actix-web']",156,530242,3398.9871794871797,73793
+2,3,"['tauri-apps/tauri', 'BurntSushi/ripgrep', 'nushell/nushell', 'dani-garcia/vaultwarden', 'SergioBenitez/Rocket']",130,456290,3509.923076923077,53343
+3,4,"['alacritty/alacritty', 'starship/starship', 'swc-project/swc', 'firecracker-microvm/firecracker', 'RustPython/RustPython']",129,424340,3289.4573643410854,42638
